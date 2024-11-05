@@ -1,0 +1,62 @@
+***AUT***
+1
+Carlos
+Ruiz González
+2
+Isabel
+Allende Llona
+3
+Jorge
+Luis Borges
+4
+Gabriel
+García Márquez
+5
+Mario
+Vargas Llosa
+6
+Julio
+Cortázar Morales
+7
+Laura
+Esquivel De León
+8
+Haruki
+Murakami Haruki
+9
+Pablo
+Neruda Basoalto
+10
+Agatha
+Christie Mallowan
+***LIB***
+978014312
+La sombra del viento
+1
+978067001
+La casa de los espíritus
+2
+978081784
+El Barco
+3
+978030738
+Cien años de soledad
+4
+978067941
+La ciudad y los perros
+5
+978081121
+Rayuela
+6
+978038542
+Como agua para chocolate
+7
+978030745
+Kafka en la orilla
+8
+978067976
+Veinte poemas de amor
+9
+978006207
+Diez negritos
+10
