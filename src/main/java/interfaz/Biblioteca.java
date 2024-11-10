@@ -184,7 +184,7 @@ public class Biblioteca implements Serializable {
             //Para evitar que se muestre el HashMap vació y desconcierte al usuario.
             System.out.println("No hay autores registrados en la biblioteca.");
         }else{
-            for (Integer i = 1; i <= autores.size(); ++i) {
+            for(Integer i:autores.keySet()) {
                 System.out.println(autores.get(i));
             }
         }

@@ -96,6 +96,7 @@ public class GestionaFicheros implements Serializable{
                     var = autores.get(Integer.valueOf(id));
                         libros.put(nombre,(new Libro(nombre,apellido,var)));
             }
+            br.close();
     }
 
     /**
@@ -130,5 +131,6 @@ public class GestionaFicheros implements Serializable{
             autores.putAll(autoresAUX);
         HashMap<String, Libro> librosAux = (HashMap<String, Libro>) ois.readObject();
             libros.putAll(librosAux);
+        ois.close();
     }
 }
